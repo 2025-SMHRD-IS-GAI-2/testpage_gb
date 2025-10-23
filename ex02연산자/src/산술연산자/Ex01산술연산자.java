@@ -39,7 +39,7 @@ public class Ex01산술연산자 {
 	    System.out.println(num/100+"00");
 	    
 		
-		
+		//깃허브 push
 	
 	}
 
